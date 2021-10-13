@@ -14,4 +14,6 @@
     <color name="bright_orange">#ffc505</color>
     <color name="light_blue">#81a9d6</color>
     <color name="background_blue">#435969</color>
+    <color name="worst_tip">#ff145b</color>
+    <color name="best_tip">#0affc2</color>
 </resources>
