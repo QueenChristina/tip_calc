@@ -28,7 +28,7 @@ Here's a walkthrough of implemented user stories:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+As my first app made in android studio, I am proud of making it through the initial indimidation of starting a new project! It was a great experience, despite the occasional frustration of debugging crashes.
 
 ## License
 
@@ -45,3 +45,5 @@ Describe any challenges encountered while building the app.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
+Made following tutorial series by [Rahul Pandey](https://www.youtube.com/watch?v=KLuiX1oHBII&list=PL7NYbSE8uaBCMVBVg6cskGzdYguj3CUP-&index=1)
