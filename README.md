@@ -32,7 +32,7 @@ As my first app made in android studio, I am proud of making it through the init
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [Christina Qin]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
@@ -45,5 +45,6 @@ As my first app made in android studio, I am proud of making it through the init
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
-
+<!-- 
 Made following tutorial series by [Rahul Pandey](https://www.youtube.com/watch?v=KLuiX1oHBII&list=PL7NYbSE8uaBCMVBVg6cskGzdYguj3CUP-&index=1)
+ -->
